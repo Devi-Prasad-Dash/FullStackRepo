@@ -29,7 +29,7 @@ public class AppTest {
 	
 	@Test
 	public void testwithZeros() {
-			
+
 			System.out.println("AppTest.testwithZeros() - Begin");
 			Arithmetic ar = new Arithmetic();
 			int expected = 0;
