@@ -30,6 +30,7 @@ public class AppTest {
 	@Test
 	public void testwithZeros() {
 
+			System.out.println("AppTest.testwithZeros() - Start");
 			Arithmetic ar = new Arithmetic();
 			int expected = 0;
 			int actual = ar.sum(0, 0);
